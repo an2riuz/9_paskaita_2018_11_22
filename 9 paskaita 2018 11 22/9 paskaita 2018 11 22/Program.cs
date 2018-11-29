@@ -10,6 +10,7 @@ namespace _9_paskaita_2018_11_22
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
